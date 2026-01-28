@@ -1,0 +1,37 @@
+tanggal,dealer,merk,tipe_motor,kategori,harga,qty,metode_pembayaran,kota,total_penjualan
+2025-01-05,Dealer A,Honda,Beat,Matic,18000000,12,Kredit,Jakarta,216000000
+2025-01-12,Dealer B,Yamaha,NMAX,Matic,32000000,8,Kredit,Bandung,256000000
+2025-01-20,Dealer C,Honda,CBR150R,Sport,36000000,4,Cash,Surabaya,144000000
+2025-02-03,Dealer A,Honda,Beat,Matic,18200000,10,Kredit,Jakarta,182000000
+2025-02-11,Dealer B,Yamaha,Aerox,Matic,29000000,7,Kredit,Bandung,203000000
+2025-02-18,Dealer C,Suzuki,Satria FU,Sport,28000000,5,Cash,Surabaya,140000000
+2025-03-06,Dealer A,Honda,Vario,Matic,23000000,14,Kredit,Jakarta,322000000
+2025-03-14,Dealer B,Yamaha,NMAX,Matic,32500000,6,Kredit,Bandung,195000000
+2025-03-22,Dealer C,Honda,Revo,Bebek,16000000,9,Cash,Surabaya,144000000
+2025-04-04,Dealer A,Honda,Beat,Matic,18500000,9,Kredit,Jakarta,166500000
+2025-04-13,Dealer B,Yamaha,Aerox,Matic,29500000,6,Kredit,Bandung,177000000
+2025-04-25,Dealer C,Kawasaki,Ninja 250,Sport,65000000,3,Cash,Surabaya,195000000
+2025-05-07,Dealer A,Honda,Vario,Matic,23500000,11,Kredit,Jakarta,258500000
+2025-05-15,Dealer B,Yamaha,NMAX,Matic,33000000,5,Kredit,Bandung,165000000
+2025-05-28,Dealer C,Honda,CBR150R,Sport,36500000,4,Cash,Surabaya,146000000
+2025-06-05,Dealer A,Honda,Beat,Matic,18700000,8,Kredit,Jakarta,149600000
+2025-06-14,Dealer B,Yamaha,Aerox,Matic,30000000,5,Kredit,Bandung,150000000
+2025-06-21,Dealer C,Suzuki,GSX-R150,Sport,35000000,3,Cash,Surabaya,105000000
+2025-07-03,Dealer A,Honda,Vario,Matic,23800000,10,Kredit,Jakarta,238000000
+2025-07-12,Dealer B,Yamaha,NMAX,Matic,33500000,6,Kredit,Bandung,201000000
+2025-07-25,Dealer C,Honda,Revo,Bebek,16200000,8,Cash,Surabaya,129600000
+2025-08-06,Dealer A,Honda,Beat,Matic,19000000,7,Kredit,Jakarta,133000000
+2025-08-15,Dealer B,Yamaha,Aerox,Matic,30500000,5,Kredit,Bandung,152500000
+2025-08-27,Dealer C,Kawasaki,Ninja 250,Sport,66000000,2,Cash,Surabaya,132000000
+2025-09-04,Dealer A,Honda,Vario,Matic,24000000,9,Kredit,Jakarta,216000000
+2025-09-13,Dealer B,Yamaha,NMAX,Matic,34000000,4,Kredit,Bandung,136000000
+2025-09-21,Dealer C,Suzuki,Satria FU,Sport,28500000,4,Cash,Surabaya,114000000
+2025-10-02,Dealer A,Honda,Beat,Matic,19200000,6,Kredit,Jakarta,115200000
+2025-10-11,Dealer B,Yamaha,Aerox,Matic,31000000,4,Kredit,Bandung,124000000
+2025-10-24,Dealer C,Honda,CBR150R,Sport,37000000,3,Cash,Surabaya,111000000
+2025-11-05,Dealer A,Honda,Vario,Matic,24200000,7,Kredit,Jakarta,169400000
+2025-11-14,Dealer B,Yamaha,NMAX,Matic,34500000,3,Kredit,Bandung,103500000
+2025-11-26,Dealer C,Honda,Revo,Bebek,16500000,6,Cash,Surabaya,99000000
+2025-12-03,Dealer A,Honda,Beat,Matic,19500000,5,Kredit,Jakarta,97500000
+2025-12-12,Dealer B,Yamaha,Aerox,Matic,31500000,4,Kredit,Bandung,126000000
+2025-12-22,Dealer C,Kawasaki,Ninja 250,Sport,67000000,2,Cash,Surabaya,134000000
