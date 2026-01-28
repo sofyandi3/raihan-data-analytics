@@ -1,6 +1,6 @@
 # raihan-data-analytics
 Menganalisis data penjualan motor ditahun 2025
-ales Analysis Motor 2025
+Sales Analysis Motor 2025
 
 Project Overview
 Project ini bertujuan untuk menganalisis data penjualan motor sepanjang tahun 2025
@@ -50,3 +50,22 @@ Insights
 - Metode pembayaran kredit lebih banyak digunakan dibandingkan cash
 - Penjualan dengan metode kredit tertinggi terjadi di bulan Maret
 - Penjualan dengan metode casg tertinggi terjadi di bulan April
+
+
+
+Hi, saya Muhammad Raihan   
+Seorang Data Analyst pemula yang fokus pada analisis data menggunakan Python.
+
+ Skills
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Python (Pandas, Matplotlib)
+
+ Projects
+- Sales Analysis Motor 2025
+- Excel Sales Dashboard
+
+ Contact
+- Gmail: mrsfyndi@gmail.com
+- No Handphone: 088211710752
